@@ -4,6 +4,7 @@
   "expo": {
     "name": "PixabayApp",
     "slug": "PixabayApp",
+    "description": "An unofficial simple React Native app to see photos and download them (download feature is not implemented yet). The photos shown in the app are from Pixabay (under Pixabay License).",
     "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -12,9 +13,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
