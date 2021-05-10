@@ -1,10 +1,11 @@
 import React from "react";
-import { StyleSheet, View, Text } from "react-native";
+import { StyleSheet, View } from "react-native";
+import ListPhotos from "../components/ListPhotos";
 
 export default function MainScreen() {
   return (
     <View style={styles.container}>
-      <Text>Main Screen 😀</Text>
+      <ListPhotos />
     </View>
   );
 }
