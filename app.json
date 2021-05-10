@@ -1,0 +1,12 @@
+{
+  "name": "PixabayApp",
+  "displayName": "PixabayApp",
+  "expo": {
+    "name": "PixabayApp",
+    "slug": "PixabayApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
